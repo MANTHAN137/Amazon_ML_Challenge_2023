@@ -2,10 +2,10 @@
 Team Name       : 	Astra
 
 Group Members : 
-Kartik Shetty
-Manthan Dhole
-Kashyap Chavhan
-Hrishikesh Bade
+Kartik Shetty[Leader],
+Manthan Dhole,
+Kashyap Chavhan,
+Hrishikesh Bade,
 
 Approach Method:
 This is a Python code for a machine learning model that uses linear regression to predict the length of a product based on its tags. Here is an overview of the code:
