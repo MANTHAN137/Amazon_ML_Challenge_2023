@@ -3,10 +3,10 @@ Team Name       : 	Astra
 ## Final Rank          124
 
 Group Members : 
-Kartik Shetty[Leader],
-Manthan Dhole,
-Kashyap Chavhan,
-Hrishikesh Bade,
++ Kartik Shetty[Leader],
++ Manthan Dhole,
++ Kashyap Chavhan,
++ Hrishikesh Bade,
 
 
 ## PROBLEM STATEMENT
