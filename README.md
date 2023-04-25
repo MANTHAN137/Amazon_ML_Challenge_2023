@@ -72,4 +72,4 @@ This is a Python code for a machine learning model that uses linear regression t
 <img width="410" alt="image" src="https://user-images.githubusercontent.com/90518833/234085796-81c9b08a-8086-4026-bc70-db40d6830f05.png">
 <img width="675" alt="image" src="https://user-images.githubusercontent.com/90518833/234086089-13dea69d-a42b-4911-b6a1-57b675765c0d.png">
 <img width="690" alt="image" src="https://user-images.githubusercontent.com/90518833/234086178-8d2ac519-6d49-4b2f-955a-5382c867d5fd.png">
-![image](https://user-images.githubusercontent.com/90518833/234088311-e1ea7b86-b23d-4d76-8e90-d4cff6fa0c16.png)
+<img width="765" alt="image" src="https://user-images.githubusercontent.com/90518833/234191762-c581444c-21c1-44c4-a475-0ac4e45df23e.png">
